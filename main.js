@@ -1,8 +1,10 @@
-// Arrays
-const fruits = ['apples','banana','1',3,5.5]
-console.log(fruits[1])
-fruits.push('mangoes');
-console.log(fruits)
-fruits.pop()
-console.log(fruits)
+// Loops
+for (let i=0; i<10; i++){
+    console.log(`For loop: ${i}`);
+}
 
+let j = 0;
+while (j<5){
+    console.log(`While Loop: ${j}`)
+    j++;
+}
