@@ -1,0 +1,2 @@
+# javascript-essentials  
+Learning and Exploring the for the famous inbrowser scripting language. For the resources I'll be quickly going through Traversy Media's [JavaScript Essentials](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) series and Code Nuggets JS series.
